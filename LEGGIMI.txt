@@ -1,0 +1,1 @@
+Ho utilizzato Google Colab per l'elaborazione dati.
